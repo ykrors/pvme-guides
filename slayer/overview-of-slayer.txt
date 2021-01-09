@@ -1,4 +1,5 @@
-> **__An Overview of Slayer__**
+> **__An Overview of Slayer (By <@239465986825256971> and <@197736922725089280>)__**
+
 .tag:intro
 Slayer is a combat-based skill, where xp is awarded for killing the mobs tasked to you by a slayer master, with harder mobs generally giving more xp. Slayer is a skill where high effort rewards high xp rates, and afk methods offer lower xp rates, so gaining xp in slayer is proportional to the effort put in. As such, AOE damage is the king of slayer.
 
